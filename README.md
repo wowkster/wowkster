@@ -1,4 +1,4 @@
-Hey! I'm Wowkster, I am a god coder. Java ftw. Don't talk to me if you use spaces instead of tabs.
+Hey! I'm Wowkster, I am a god coder. Java ftw.
 
 ## Discord
 Wowkster#0969
