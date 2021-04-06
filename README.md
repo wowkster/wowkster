@@ -6,7 +6,7 @@ Wowkster#0001
 ## Donations
 Donations are greatly appreciated and they motivate me to continue working and help fund my day to day expenses
 
-It's by no means a requirement, but if you are feeling generous, I accept donations here: buymeacoffee.com/wowkster
+It's by no means a requirement, but if you are feeling generous, I accept donations here: <a href="https://www.buymeacoffee.com/wowkster">buymeacoffee.com/wowkster</a>
 
 ## Current Projects
 
