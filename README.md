@@ -1,7 +1,7 @@
 Hey! I'm Wowkster, I am a god coder. Java ftw.
 
 ## Discord
-Wowkster#0969
+Wowkster#0001
 
 ## Current Projects
 
