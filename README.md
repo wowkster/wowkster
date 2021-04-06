@@ -6,7 +6,8 @@ Wowkster#0001
 ## Donations
 Donations are greatly appreciated and they motivate me to continue working and help fund my day to day expenses
 
-It's by no means a requirement, but if you are feeling generous, I accept donations here: <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wowkster" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+It's by no means a requirement, but if you are feeling generous, I accept donations here: <a href="https://www.buymeacoffee.com/wowkster" >https://www.buymeacoffee.com/wowkster</a>
+https://www.buymeacoffee.com/wowkster
 
 ## Current Projects
 
