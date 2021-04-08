@@ -14,7 +14,8 @@ It's by no means a requirement, but if you are feeling generous, I accept donati
 
 ## My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">  
-  <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=wowkster&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" />
-  <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wowkster&layout=compact&theme=algolia" />
-</a>  
+[ ![Wowkster's Github Stats](https://github-readme-stats.vercel.app/api?username=wowkster&count_private=true&include_all_commits=true&show_icons=true&theme=algolia) ![Wowkster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wowkster&layout=compact&theme=algolia) ](https://github.com/anuraghazra/github-readme-stats)
+
+## Minecraft Stats
+
+![Wowkster's Hypixel Stats](https://hypixel.paniek.de/signature/4604daebb3594471964ce6acdf8af1d0/general-small)
