@@ -3,6 +3,9 @@ Hey! I'm Wowkster, I am a god coder. Java ftw.
 ## Discord
 Wowkster#0001
 
+## SpigotMC
+You can check out some of my plugins on [My SpigotMC page](https://www.spigotmc.org/resources/authors/wowkster.946669/)
+
 ## Donations
 Donations are greatly appreciated as they motivate me to continue working and help fund my day to day expenses.
 
