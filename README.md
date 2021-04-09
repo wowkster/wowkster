@@ -1,19 +1,19 @@
-Hey! I'm Wowkster, and I code things sometimes; Java = PogChamp;
+Hey! I'm Wowkster, and I code things sometimes. Java = PogChamp
 
 ## Discord
 Wowkster#0001
 
 ## SpigotMC
-You can check out some of my plugins on [My SpigotMC page](https://www.spigotmc.org/resources/authors/wowkster.946669/);
+You can check out some of my plugins on [My SpigotMC page](https://www.spigotmc.org/resources/authors/wowkster.946669/)
 
 ## Donations
-Donations are greatly appreciated as they motivate me to continue working and help fund my day to day expenses;
+Donations are greatly appreciated as they motivate me to continue working and help fund my day to day expenses
 
-It's by no means a requirement, but if you are feeling generous, I accept donations here: [buymeacoffee.com/wowkster](https://www.buymeacoffee.com/wowkster);
+It's by no means a requirement, but if you are feeling generous, I accept donations here: [buymeacoffee.com/wowkster](https://www.buymeacoffee.com/wowkster)
 
 ## Current Projects
 
-* What ever I feel like working on;
+* What ever I feel like working on
 
 ## My GitHub Stats
 
