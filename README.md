@@ -8,7 +8,11 @@ You can check out some of my plugins on [My SpigotMC page](https://www.spigotmc.
 
 ## Current Projects
 
-* What ever I feel like working on
+* Custom Minecraft Client (Not named yet)
+* Backend Node server with Express
+* A mod which uses Twitch chat as input for your Minecraft player (Fabric 1.16.5 and Forge 1.8.9)
+* Discord and Minecraft integration plugin for Spigot
+* Anything else I feel like working on
 
 ## My GitHub Stats
 
