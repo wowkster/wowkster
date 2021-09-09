@@ -1,18 +1,24 @@
-Hey! I'm Wowkster, and I code things sometimes. 
+Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 8 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, React, JQuery, PHP, Express, SQL, MongoDB, Python, C++, C#, and more.
 
-## Discord
-Wowkster#0001
-
-## SpigotMC
-You can check out some of my plugins on [My SpigotMC page](https://www.spigotmc.org/resources/authors/wowkster.946669/)
+## Contact
+You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `wowkster@wowkster.com`
 
 ## Current Projects
 
+* [Cloaks+](https://github.com/CloaksPlus) (Main Focus)
+  * Backend in Node
+  * Frontend with React
+  * Discord Bot in Discord.js
+  * etc
+* Discord Bot Email Client  
+
+### Side Projects
+
 * Custom Minecraft Client (Not named yet)
-* Backend Node server with Express
 * A mod which uses Twitch chat as input for your Minecraft player (Fabric 1.16.5 and Forge 1.8.9)
-* Discord and Minecraft integration plugin for Spigot
-* Anything else I feel like working on
+
+## SpigotMC
+You can check out some of my plugins on [My SpigotMC page](https://www.spigotmc.org/resources/authors/wowkster.946669/)
 
 ## My GitHub Stats
 
