@@ -61,6 +61,22 @@ I have created several Minecraft mods for both Fabric and Forge, as well as a cu
 
 Naturally as any other developer I have countless other small side projects I like to work on including a Discord email client, various automation apps, etc.
 
+## Goals and Aspirations
+
+In the coming year 2022 I hope to expand my horizons even further and learn some of the following:
+
+* Flutter
+* React Native
+* Swift
+* Go
+* Rust
+* Haskell
+* Redux
+* Elixir
+* Angular
+* Laravel
+* Assembly
+
 ## My GitHub Stats
 
 [![Wowkster's Github Stats](https://github-readme-stats.vercel.app/api?username=wowkster&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
