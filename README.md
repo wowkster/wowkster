@@ -7,7 +7,7 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `wow
 
 ## Current Projects
 
-* [Cloaks+](https://github.com/CloaksPlus) (Main Focus)
+### [Cloaks+](https://github.com/CloaksPlus) (Main Focus)
   * Backend in Node
   * Frontend with React Next.js and Tailwind
   * Discord Bot in Discord.js
