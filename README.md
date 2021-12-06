@@ -1,4 +1,4 @@
-Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 8 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, React, Next, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, and more.
+Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 8 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, Next, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, and more.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> </p>
 
