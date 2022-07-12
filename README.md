@@ -1,4 +1,4 @@
-Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 8 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, Next, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, and more. See the [Resume](#resume) section for more info.
+Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 8 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, and more. See the [Resume](#resume) section for more info.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> </p>
 
@@ -9,18 +9,18 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `wow
 
 ### [Cloaks+](https://github.com/CloaksPlus) (Main Focus)
   * Backend in Node
-  * Frontend with React Next.js and Tailwind
-  * Discord Bot in Discord.js
+  * Frontend with Next.js and TS
+  * Discord Bot in Discord.js and TS
   * Various Java Plugins
+  * Desktop App in Electron, React, and TS
   * etc
 
 ### Side Projects
 
 * Custom Minecraft Client (Not named yet)
-* A mod which uses Twitch chat as input for your Minecraft player (Fabric 1.16.5 and Forge 1.8.9)
 * Discord Bot Email Client
+* Cards Against Humanity Online
 * My own programming language called [Komodo](https://github.com/KomodoLang/Komodo)
-* RTX Sniping Bot called [The American Sniper](https://github.com/wowkster/AmericanSniper)
 
 ## Resume
 
@@ -31,7 +31,7 @@ I have been developing for many years and have a decent amount of experience wit
 [Cloaks+](https://github.com/CloaksPlus) is a Minecraft addon that allows you to get free Capes and Cosmetics on any Minecraft Client. We use:
 
 * Vite with SCSS for our main website which I helped create
-* React with Next.js and Tailwind CSS for our new website which I did completely myself(coming soon)
+* React with Next.js and styled-components for our new website which I did completely myself (coming soon)
 * Typescript/Discord.js for our Discord bot which I originally authored
 * Typescript/Fastify/Mongo for our backend API which I wrote myself
 * Java/Kotlin for various Minecraft Plugins which i wrote may of
@@ -44,10 +44,6 @@ I have been developing for many years and have a decent amount of experience wit
 ### Komodo
 
 [Komodo](https://github.com/KomodoLang/Komodo) is a compiled general-purpose programming language I am working on which is inspired by Javascript. I originally began development with C++, but decided that it was more work than I would have wanted, so I elected to use Typescript instead.
-
-### American Sniper
-
-[The American Sniper](https://github.com/wowkster/AmericanSniper) is a RTX GPU sniping bot I am working on written in Typescript
 
 ### Spigot
 
