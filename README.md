@@ -1,26 +1,23 @@
-Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 8 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, and more. See the [Resume](#resume) section for more info.
+Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 9 years and I have experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, and more. See the [Resume](#resume) section for more info.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> </p>
 
 ## Contact
-You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `wowkster@wowkster.com`
+You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `contact@wowkster.com`. If you are contactint me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
 
 ## Current Projects
 
 ### [Cloaks+](https://github.com/CloaksPlus) (Main Focus)
-  * Backend in Node
+  * Backend in Node/Rust
   * Frontend with Next.js and TS
   * Discord Bot in Discord.js and TS
-  * Various Java Plugins
-  * Desktop App in Electron, React, and TS
+  * Various Java/Kotlin Plugins
+  * Desktop App in Tauri, React, and TS
   * etc
 
 ### Side Projects
 
-* Custom Minecraft Client (Not named yet)
-* Discord Bot Email Client
 * Cards Against Humanity Online
-* My own programming language called [Komodo](https://github.com/KomodoLang/Komodo)
 
 ## Resume
 
@@ -30,20 +27,14 @@ I have been developing for many years and have a decent amount of experience wit
 
 [Cloaks+](https://github.com/CloaksPlus) is a Minecraft addon that allows you to get free Capes and Cosmetics on any Minecraft Client. We use:
 
-* Vite with SCSS for our main website which I helped create
-* React with Next.js and styled-components for our new website which I did completely myself (coming soon)
-* Typescript/Discord.js for our Discord bot which I originally authored
-* Typescript/Fastify/Mongo for our backend API which I wrote myself
-* Java/Kotlin for various Minecraft Plugins which i wrote may of
-* C# for our Desktop app which i wrote a decent amount of
-* C++ for our upcoming update for more client support
+* NextJS, Typescript, and styled-components for our website
+* Typescript/Discord.js for our Discord bot
+* Typescript/Fastify/Mongo as well as some rust compoents for our backend API
+* Java/Kotlin for various Minecraft Plugins
+* C# for our Desktop App
 * Typescript/Socket.io/Vue for a website which renders cape textures using Blender
 * Python for said cape render script
-* JS for a [Blockbench](https://blockbench.net) plugin (coming soon)
-
-### Komodo
-
-[Komodo](https://github.com/KomodoLang/Komodo) is a compiled general-purpose programming language I am working on which is inspired by Javascript. I originally began development with C++, but decided that it was more work than I would have wanted, so I elected to use Typescript instead.
+* ThreeJS/Typescript for renderer-rewrite
 
 ### Spigot
 
@@ -61,17 +52,17 @@ Naturally as any other developer I have countless other small side projects I li
 
 In the coming year 2022 I hope to expand my horizons even further and learn some of the following:
 
-* Flutter
-* React Native
-* Swift
-* Go
-* Rust
-* Haskell
-* Redux
-* Elixir
-* Angular
-* Laravel
-* Assembly
+- [ ] Flutter
+- [ ] React Native
+- [x] Swift
+- [ ] Go
+- [x] Rust
+- [ ] Haskell
+- [x] Redux
+- [ ] Elixir
+- [ ] Angular
+- [ ] Laravel
+- [ ] Assembly
 
 ## My GitHub Stats
 
