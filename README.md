@@ -3,7 +3,7 @@ Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in W
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> </p>
 
 ## Contact
-You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `contact@wowkster.com`. If you are contactint me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
+You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `contact@wowkster.com`. I take commissions if you like my work. If you are contacting me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
 
 ## Current Projects
 
@@ -18,6 +18,14 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
 ### Side Projects
 
 * Cards Against Humanity Online
+* Adding Wi-Fi support for my TI-84 calculator
+* Typescript Minecraft Server Implementation
+* Custom full-stack solution for integrating Fastify with NextJS
+* Remaking my personal website
+
+### Commissions
+
+I have a lot of other projects which I have been commissioned for but can not share the source code publically. If you would like to see some examples of my work, let me know!
 
 ## Resume
 
