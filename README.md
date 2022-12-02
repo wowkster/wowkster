@@ -1,6 +1,6 @@
 Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 9 years, and have been working professionally for over 3 years now. In that time, I have acquired experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, and more. See the [Resume](#resume) section for more info.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> <a href='https://wakatime.com/@14712074-e7e9-4ac6-91dd-cf3f62547828'><img src="https://wakatime.com/badge/user/14712074-e7e9-4ac6-91dd-cf3f62547828.svg" alt="wowkster" /></a> </p>
 
 ## Contact
 You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `contact@wowkster.com`. I take commissions if you like my work. If you are contacting me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
