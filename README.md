@@ -43,13 +43,13 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
 
 ### Side Projects (In various stages of completion)
 
-* [Cards Against Humanity Online](https://github.com/wowkster/CardsAgainstHumanity)
-* [Adding Wi-Fi support for my TI-84 calculator](https://github.com/wowkster/TI-RC)
-* [Typescript Minecraft Server Implementation](https://github.com/wowkster/HydrogenServer)
+* [PNG sequence to Minecrtaft animation CLI tool](https://github.com/wowkster/StackPNG)
 * [Rust-based malware for windows](https://github.com/wowkster/repulse)
 * [VIM-style terminal text editor in Rust](https://github.com/wowkster/rim)
+* [Typescript Minecraft Server Implementation](https://github.com/wowkster/HydrogenServer)
+* [Cards Against Humanity Online](https://github.com/wowkster/CardsAgainstHumanity)
+* [Adding Wi-Fi support for my TI-84 calculator](https://github.com/wowkster/TI-RC)
 * [Rust JVM implementation](https://github.com/wowkster/RustJVM)
-* [PNG sequence to Minecrtaft animation CLI tool](https://github.com/wowkster/StackPNG)
 * Remaking my personal website
 
 ## Resume
