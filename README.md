@@ -96,4 +96,4 @@ Naturally as any other developer I have countless other small side projects I li
 
 [![Wowkster's Github Stats](https://github-readme-stats.vercel.app/api?username=wowkster&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wowkster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wowkster&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Wowkster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wowkster&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
