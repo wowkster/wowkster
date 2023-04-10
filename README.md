@@ -7,7 +7,7 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
 
 ## Current Projects
 
-### [Cloaks+](https://github.com/CloaksPlus)
+### [Cloaks+](https://github.com/CloaksPlus) (Owner and Lead Developer)
   A character customization utility for Minecraft
 
   * Backend in Node/Rust
@@ -27,16 +27,27 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
 
 <img src="https://user-images.githubusercontent.com/49880655/230960693-78ff38aa-5f9f-4bbd-984b-bcd18039c541.png" width="500">
 
+
+### [Aether](https://github.com/Team303/aether)
+  
+  A next-generation [FRC](https://www.firstinspires.org/robotics/frc) robotics scouting app (data entry and aggregation utility)
+  
+  * Frontend and backend in NextJS
+  * MongoDB for dynamic and customizable data storage
+  * AWS S3 for image storage
+
+<img src="https://user-images.githubusercontent.com/49880655/230966259-0816aa17-f5e8-4936-a99c-d54232584592.png" width="500">
+
 ### [Leek](https://github.com/leek-lang/leek)
 
-  A custom programming language I'm developing with a unique twist
+  A custom programming language I'm developing with a unique take on memory management
   
   * Compiler written in Rust
   * IDE support written in TS and Textmate grammars
 
 ### [SIS16](https://github.com/SIS16)
 
-  A custom CPU architecture with a VM and custom assembly language.
+  A custom CPU architecture with a VM and custom assembly language
   
   * Assembler written in Rust
   * VM written in Rust
@@ -79,7 +90,7 @@ I have created several Minecraft mods for both Fabric and Forge, as well as a cu
 
 ### More
 
-Naturally as any other developer I have countless other small side projects I like to work on including a Discord email client, various automation apps, OpenGL rendering, etc.
+Naturally as any other developer I have countless other small side projects I like to work on including a Discord email client, various automation apps, OpenGL rendering, hardware development with Arduino (Rust and C++) etc.
 
 ## My GitHub Stats
 
