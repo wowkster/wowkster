@@ -52,6 +52,13 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
   * Assembler written in Rust
   * VM written in Rust
 
+### [Farba](https://github.com/wowkster/farba)
+
+  A CPU graphics library written in pure Rust
+  
+  * Supports 2D drawing primatives (lines, circles, triangles, etc)
+  * Also has helpers for 3D graphics (depth buffering, projection matrices, etc)
+
 ### Side Projects (In various stages of completion)
 
 * [PNG sequence to Minecrtaft animation CLI tool](https://github.com/wowkster/StackPNG)
