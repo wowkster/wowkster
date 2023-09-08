@@ -1,11 +1,11 @@
-Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 9 years, and have been working professionally for over 4 years now. In that time, I have acquired experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, and more. 
+Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 9 years, and have been working professionally for over 4 years now. In that time, I have acquired experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, x86 assembly, and more. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> <a href='https://wakatime.com/@14712074-e7e9-4ac6-91dd-cf3f62547828'><img src="https://wakatime.com/badge/user/14712074-e7e9-4ac6-91dd-cf3f62547828.svg" alt="wowkster" /></a> </p>
 
 ## Contact
 You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `contact@wowkster.com`. I take commissions if you like my work. If you are contacting me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
 
-## Current Projects
+## Personal Projects
 
 ### [Cloaks+](https://github.com/CloaksPlus) (Owner and Lead Developer)
   A character customization utility for Minecraft
@@ -38,19 +38,43 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
 
 <img src="https://user-images.githubusercontent.com/49880655/230966259-0816aa17-f5e8-4936-a99c-d54232584592.png" width="500">
 
-### [Leek](https://github.com/leek-lang/leek)
+### [Leek](https://github.com/leek-lang/leek) (in development)
 
   A custom programming language I'm developing with a unique take on memory management
   
   * Compiler written in Rust
   * IDE support written in TS and Textmate grammars
 
-### [SIS16](https://github.com/SIS16)
+### [dinOS](https://github.com/wowkster/dinOS) (in development)
 
-  A custom CPU architecture with a VM and custom assembly language
-  
-  * Assembler written in Rust
-  * VM written in Rust
+A 32-bit hobby operating system written in x86 assembly made to explore low level computing and the x86 architecture. It features a multi-stage bootloader which includes FAT12 drivers and a spec compliant BIOS disk IO wrapper.  The kernel is still in the very early stages but supports interrupt handling, VGA text mode drivers, and memory paging.
+
+  * Stage 1 bootloader written in x86 assembly
+    * BIOS disk IO wrapper
+    * FAT12 file system driver
+    * Stage 2 loader
+    * Error tolerant design with error messages
+    * All fits into 512 byte boot sector (448 bytes when you subtract space occupied by BPB)
+  * Stage 2 bootloader written in x86 assembly
+    * Kernel loader
+    * GDT initializer
+    * 32-bit protected mode initializer
+  * Kernel written in x86 assembly (for now)
+    * VGA text mode drivers
+    * PIC programming
+    * IDT setup
+    * Interrupt handling
+    * Memory Paging  
+
+### [drown](https://github.com/wowkster/drown) (in development)
+
+A lightweight SQL server and client implementation
+
+  * Custom SQL server written in Rust
+    * Custom SQL parser and evaluator
+  * Custom SQL client written in Rust
+    * Custom network protocol to communicate with server
+    * SQL statement REPL 
 
 ### [Farba](https://github.com/wowkster/farba)
 
@@ -59,7 +83,14 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
   * Supports 2D drawing primatives (lines, circles, triangles, etc)
   * Also has helpers for 3D graphics (depth buffering, projection matrices, etc)
 
-### Side Projects (In various stages of completion)
+### [SIS16](https://github.com/SIS16) (on the back-burner until I learn more about CPU design)
+
+  A custom CPU architecture with a VM and custom assembly language
+  
+  * Assembler written in Rust
+  * VM written in Rust
+
+### Smaller Side Projects (In various stages of completion)
 
 * [PNG sequence to Minecrtaft animation CLI tool](https://github.com/wowkster/StackPNG)
 * [Rust-based malware for windows](https://github.com/wowkster/repulse)
@@ -69,35 +100,6 @@ You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `con
 * [Adding Wi-Fi support for my TI-84 calculator](https://github.com/wowkster/TI-RC)
 * [Rust JVM implementation](https://github.com/wowkster/RustJVM)
 * Remaking my personal website
-
-## Resume
-
-I have been developing for many years and have a decent amount of experience with many different languages, technologies, and frameworks. Below I have outlined some projects that I have worked on and the skills I demonstrated there.
-
-### Cloaks+
-
-[Cloaks+](https://github.com/CloaksPlus) is a Minecraft addon that allows you to get free Capes and Cosmetics on any Minecraft Client. We use:
-
-* NextJS, Typescript, and styled-components for our website
-* Typescript/Discord.js for our Discord bot
-* Typescript/Fastify/Mongo as well as some rust compoents for our backend API
-* Java/Kotlin for various Minecraft Plugins
-* C# for our Desktop App
-* Typescript/Socket.io/Vue for a website which renders cape textures using Blender
-* Python for said cape render script
-* ThreeJS/Typescript for renderer-rewrite
-
-### Spigot
-
-I have a decent amount of experience with the Spigot/Bukkit API for creating Minecraft server plugins. For a while I did freelance work on Fiverr. You can check out some of my public plugins on [My SpigotMC page](https://www.spigotmc.org/resources/authors/wowkster.946669/) although they are now mostly outdated.
-
-### Minecraft Mods
-
-I have created several Minecraft mods for both Fabric and Forge, as well as a custom Minecraft client. I have worked with several Youtubers to create custom mods for videos and streams.
-
-### More
-
-Naturally as any other developer I have countless other small side projects I like to work on including a Discord email client, various automation apps, OpenGL rendering, hardware development with Arduino (Rust and C++) etc.
 
 ## My GitHub Stats
 
