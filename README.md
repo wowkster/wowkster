@@ -3,11 +3,11 @@ Hey! I'm Wowkster, and I'm an experienced all-around developer with a focus in W
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> <a href='https://wakatime.com/@14712074-e7e9-4ac6-91dd-cf3f62547828'><img src="https://wakatime.com/badge/user/14712074-e7e9-4ac6-91dd-cf3f62547828.svg" alt="wowkster" /></a> </p>
 
 ## Contact
-You can contact me on Discord (preferred) at `Wowkster#0001` or by email at `contact@wowkster.com`. I take commissions if you like my work. If you are contacting me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
+You can contact me on Discord (preferred) at `@wowkster` or by email at `contact@adrianwowk.com`. I take commissions if you like my work. If you are contacting me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
 
 ## Personal Projects
 
-### [Cloaks+](https://github.com/CloaksPlus) (Owner and Lead Developer)
+### [Cloaks+](https://github.com/CloaksPlus) (Founder/Previously CTO)
   A character customization utility for Minecraft
 
   * Backend in Node/Rust
@@ -64,7 +64,20 @@ A 32-bit hobby operating system written in x86 assembly made to explore low leve
     * PIC programming
     * IDT setup
     * Interrupt handling
-    * Memory Paging  
+    * Memory Paging
+    * PS/2 Keyboard Drivers
+
+### [floppier](https://github.com/wowkster/floppier)
+
+A implementation of musical floppy drives in Rust
+
+  * Server written in Rust
+    * Parses MIDI files
+    * Sends MIDI events over USB serial to hardware client
+  * Embedded hardware client written in Rust
+    * Runs on Raspberry Pi Pico
+    * Custom USB serial protocol using CBOR
+    * Parallel and interrupt driven floppy drive driver
 
 ### [drown](https://github.com/wowkster/drown) (in development)
 
@@ -76,7 +89,7 @@ A lightweight SQL server and client implementation
     * Custom network protocol to communicate with server
     * SQL statement REPL 
 
-### [Farba](https://github.com/wowkster/farba)
+### [farba](https://github.com/wowkster/farba)
 
   A CPU graphics library written in pure Rust
   
@@ -99,6 +112,7 @@ A lightweight SQL server and client implementation
 * [Cards Against Humanity Online](https://github.com/wowkster/CardsAgainstHumanity)
 * [Adding Wi-Fi support for my TI-84 calculator](https://github.com/wowkster/TI-RC)
 * [Rust JVM implementation](https://github.com/wowkster/RustJVM)
+* [Rsut wrapper for olive.c](https://github.com/wowkster/olivec)
 * Remaking my personal website
 
 ## My GitHub Stats
