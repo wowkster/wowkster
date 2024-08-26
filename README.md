@@ -1,4 +1,6 @@
-Hey! I'm Adrian, and I'm an experienced all-around developer with a focus in Web Development. I've been programming for over 9 years, and have been working professionally for over 4 years now. In that time, I have acquired experience with a large amount of languages and technologies like Java, Javascript, Typescript, HTML, CSS, SCSS, Tailwind, React, NextJS, Vue, JQuery, PHP, Express, Fastify, SQL, MongoDB, Python, C++, C#, Rust, x86 assembly, and more. 
+Hey! My name is Adrian, and I'm a well-rounded software engineer with over 10 years of programming experience. I've been working professionally for the last 5 years and in that time I've worked with a large amount of languages like Rust, C/C++, Java, Javascript/Typescript, PHP, Python, Kotlin, Swift, C#, x86 assembly, and more. I also have experience with an ever-increasing number of related technologies including React/NextJS, Vue/Nuxt, Tailwind, HTMX, Axum, Express, Fastify, PostgreSQL, MongoDB, Docker, Kubernetes, and Git just to name a few.
+
+Over the years I've had the opportunity to explore many different fields such as web development, mobile development, systems programming, embedded firmware development, game/graphics programming, compiler engineering, operating system development, and many others.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> <a href='https://wakatime.com/@14712074-e7e9-4ac6-91dd-cf3f62547828'><img src="https://wakatime.com/badge/user/14712074-e7e9-4ac6-91dd-cf3f62547828.svg" alt="wowkster" /></a> </p>
 
@@ -112,7 +114,7 @@ A lightweight SQL server and client implementation
 * [Cards Against Humanity Online](https://github.com/wowkster/CardsAgainstHumanity)
 * [Adding Wi-Fi support for my TI-84 calculator](https://github.com/wowkster/TI-RC)
 * [Rust JVM implementation](https://github.com/wowkster/RustJVM)
-* [Rsut wrapper for olive.c](https://github.com/wowkster/olivec)
+* [Rust wrapper for olive.c](https://github.com/wowkster/olivec)
 * Remaking my personal website
 
 ## My GitHub Stats
