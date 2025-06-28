@@ -9,7 +9,7 @@ You can contact me on Discord (preferred) at `@wowkster` or by email at `contact
 
 ## Open Source Work Projects
 
-* [kicad_lib](https://github.com/adom-inc/kicad_lib) - A Rust library for working with Kicad files
+* [kicad_lib](https://github.com/adom-inc/kicad_lib) - A Rust library for working with KiCad files
 * [mcp2518fd](https://github.com/adom-inc/mcp2518fd) - A `#![no_std]` Rust driver library for the MCP2518FD CAN FD controller
 * [tmc2240](https://github.com/adom-inc/tmc2240) - A `#![no_std]` Rust driver library for the Trinamic TMC2240 stepper motor driver chip
 * [ads123x](https://github.com/adom-inc/ads123x) - A `#![no_std]` Rust driver library for the TI ADS123x series of Delta-Sigma ADC chips
