@@ -13,6 +13,7 @@ You can contact me on Discord (preferred) at `@wowkster` or by email at `contact
 * [mcp2518fd](https://github.com/adom-inc/mcp2518fd) - A `#![no_std]` Rust driver library for the MCP2518FD CAN FD controller
 * [tmc2240](https://github.com/adom-inc/tmc2240) - A `#![no_std]` Rust driver library for the Trinamic TMC2240 stepper motor driver chip
 * [ads123x](https://github.com/adom-inc/ads123x) - A `#![no_std]` Rust driver library for the TI ADS123x series of Delta-Sigma ADC chips
+* [ads1220](https://github.com/adom-inc/ads1220) - A `#![no_std]` Rust driver library for the TI ADS1220 Delta-Sigma ADC chip
 
 ## Notable Personal Projects
 
