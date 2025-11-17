@@ -32,6 +32,24 @@ A complete rewrite of the Linux userspace USB/IP stack in rust, written with per
     * Fixes some bugs in the original C implementation
   * Written entirely in safe Rust (using `#![forbid(unsafe_code)]`)  
 
+### [objection](https://github.com/wowkster/objection) (in development)
+
+A simple S3 compatible object storage server written in Rust using Tokio and SQLite
+
+- AWS S3 API Compatibility
+- Per Bucket + Per Object Access Control
+- CORS
+- TLS
+- HIGH Performance
+- Cache Control
+- Bucket Data Deduplication (optional)
+- Access Logging (optional)
+- Object Expiration (optional)
+- Object Tagging
+- Easy Backups
+- IP Rate Limiting
+- Web management UI
+
 ### [drip](https://github.com/RiptideOS/drip)
 
 A from-scratch compiler for a custom systems programming language I'm working on. My goal with this project is to self-host the compiler and then use the language to write a full OS kernel and userspace with no dependencies. 
