@@ -14,8 +14,23 @@ You can contact me on Discord (preferred) at `@wowkster` or by email at `contact
 * [tmc2240](https://github.com/adom-inc/tmc2240) - A `#![no_std]` Rust driver library for the Trinamic TMC2240 stepper motor driver chip
 * [ads123x](https://github.com/adom-inc/ads123x) - A `#![no_std]` Rust driver library for the TI ADS123x series of Delta-Sigma ADC chips
 * [ads1220](https://github.com/adom-inc/ads1220) - A `#![no_std]` Rust driver library for the TI ADS1220 Delta-Sigma ADC chip
+* [cdcx913](https://github.com/adom-inc/cdcx913) - A `#![no_std]` Rust driver library for the TI CDCE(L)913 PLL chips
+* [slcanx](https://github.com/adom-inc/slcanx) - An improved Serial Line CAN protocol written in Rust supporting CAN FD
 
 ## Notable Personal Projects
+
+### [usbip-rs](https://github.com/wowkster/usbip-rs)
+
+A complete rewrite of the Linux userspace USB/IP stack in rust, written with performance, safety, and security in mind.
+
+  * New Rust lib crate for interacting with the `vhci_hcd`, `usbip_host`, and `usbip_vudc` kernel modules.
+  * New `usbip` and `usbipd` CLI tools
+    * All existing functionality (legacy mode support)
+    * New JSON output mode
+    * Better error messages
+    * Nicer command argument parsing with `clap`
+    * Fixes some bugs in the original C implementation
+  * Written entirely in safe Rust (using `#![forbid(unsafe_code)]`)  
 
 ### [drip](https://github.com/RiptideOS/drip)
 
@@ -67,6 +82,22 @@ A 32-bit hobby operating system written in x86 assembly made to explore low leve
     * Memory Paging
     * PS/2 Keyboard Drivers
 
+### [riptide](https://github.com/RiptideOS/riptide)
+
+A minimal x86_64 OS kernel written in Rust.
+
+* Interactive shell prompt
+* Basic device/driver model
+* File System driver support
+* Kernel-space async task executor
+
+### [ping-the-internet](https://github.com/wowkster/ping-the-internet)
+
+A hobby project for mapping out the entire IPv4 address space with ICMP pings
+
+* Server program written in Rust for sending out ICMP echo pings distributed temporally and across subnet regions
+* GUI program written in Rust with raylib for visualizing the results in real time and after the fact  
+
 ### [Cloaks+](https://github.com/CloaksPlus) (Founder/Previously CTO)
   A character customization utility for Minecraft
 
@@ -78,14 +109,6 @@ A 32-bit hobby operating system written in x86 assembly made to explore low leve
   * etc
 
 <img src="https://user-images.githubusercontent.com/49880655/230960140-ff465d11-eec3-4a3d-8163-df86bc133afe.png" width="500">
-
-### [PixelMousepads](https://pixelmousepads.com)
-  A webstore for stylish pixel art mousepads
-
-  * Backend in TS with Fastify
-  * Frontend with Next.js and TS
-
-<img src="https://user-images.githubusercontent.com/49880655/230960693-78ff38aa-5f9f-4bbd-984b-bcd18039c541.png" width="500">
 
 ### [farba](https://github.com/wowkster/farba)
 
@@ -107,6 +130,7 @@ A 32-bit hobby operating system written in x86 assembly made to explore low leve
 * [Adding Wi-Fi support for my TI-84 calculator](https://github.com/wowkster/TI-RC)
 * [Rust JVM implementation](https://github.com/wowkster/RustJVM)
 * Remaking my personal website
+* [aws (x86 Assembly Web Server)(https://github.com/wowkster/aws)
 
 ## My GitHub Stats
 
