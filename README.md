@@ -2,7 +2,7 @@ Hey! My name is Adrian, and I'm a well-rounded software engineer with over 10 ye
 
 Over the years I've had the opportunity to explore many different fields such as web development, mobile development, systems programming, embedded firmware development, game/graphics programming, compiler engineering, operating system development, and many others. Currently I'm employed full-time at [Adom Industries Inc.](https://github.com/adom-inc) where I work all across the software (and hardware) stack tackling exciting problems in robotics and distributed systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> <a href='https://wakatime.com/@14712074-e7e9-4ac6-91dd-cf3f62547828'><img src="https://wakatime.com/badge/user/14712074-e7e9-4ac6-91dd-cf3f62547828.svg" alt="wowkster" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wowkster&label=Profile%20views&color=0e75b6&style=flat" alt="wowkster" /> </p>
 
 ## Contact
 You can contact me on Discord (preferred) at `@wowkster` or by email at `contact@adrianwowk.com` for inquiries. If you are contacting me about an issue with a project, please open a GitHub issue on that repository instead. I will tend to it as soon as I can.
@@ -149,7 +149,3 @@ A hobby project for mapping out the entire IPv4 address space with ICMP pings
 * [Rust JVM implementation](https://github.com/wowkster/RustJVM)
 * Remaking my personal website
 * [aws (x86 Assembly Web Server)(https://github.com/wowkster/aws)
-
-## My GitHub Stats
-
-[![Wowkster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wowkster&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
