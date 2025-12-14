@@ -50,7 +50,7 @@ A simple S3 compatible object storage server written in Rust using Tokio and SQL
 - IP Rate Limiting
 - Web management UI
 
-### [drip](https://github.com/RiptideOS/drip)
+### [drip](https://github.com/wowkster/drip)
 
 A from-scratch compiler for a custom systems programming language I'm working on. My goal with this project is to self-host the compiler and then use the language to write a full OS kernel and userspace with no dependencies. 
 
@@ -100,7 +100,7 @@ A 32-bit hobby operating system written in x86 assembly made to explore low leve
     * Memory Paging
     * PS/2 Keyboard Drivers
 
-### [riptide](https://github.com/RiptideOS/riptide)
+### [riptide](https://github.com/wowkster/riptide)
 
 A minimal x86_64 OS kernel written in Rust.
 
